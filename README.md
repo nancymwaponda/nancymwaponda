@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nancymwaponda
-- 👀 I’m interested in software engineering, Cyber security and computer maintainance 
-- 🌱 I’m currently learning diploma in Information Communication & Technology 
+- 👀 I’m interested in front-end developer and computer maintainance 
+- 🌱 I’m certified in diploma in Information Communication & Technology 
 - 💞️ I’m looking to collaborate on various projects pertaining softwares.
 - 📫 How to reach me mwapondanancie@gmail.com 
 
